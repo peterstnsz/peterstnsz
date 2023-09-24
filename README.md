@@ -1,6 +1,6 @@
 ## 👋 Hi there,
-I’m Peter, working as a Product Designer at [Truepill](https://www.truepill.com/).
+I’m Peter, working as a Senior Product Designer.
 
-Currently learning JavaScript and trying to build useful things for Figma 😎 💪
+Sometimes I Design, sometimes I code 😎 💪
 
 You can find me on [peterstnsz.com](www.peterstnsz.com)
